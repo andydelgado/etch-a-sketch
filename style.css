@@ -1,0 +1,22 @@
+.container {
+    height: 960px;
+    width: 960px;
+}
+.square {
+    height: 30px;
+    width: 30px;
+    background-color: #dcdcdc;
+    float: left;
+    margin: 1px;
+    border: 1px solid #ececec;
+}
+
+.clear {
+    clear: both;
+}
+
+#newGrid {
+    height: 30px;
+    width: 50px;
+    margin: 5px;
+}
